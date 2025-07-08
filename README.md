@@ -1,4 +1,4 @@
-# Pixel Stream Credential Provider
+# Pixel Streaming Credential Provider
 
 A Windows Credential Provider implementation that enables programmatic user authentication and session creation for pixel streaming scenarios. This project provides automatic, headless Windows logon capabilities for cloud gaming, remote desktop, and virtual desktop infrastructure (VDI) applications.
 
